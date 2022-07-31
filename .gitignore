@@ -3,7 +3,7 @@
 # dependencies
 /two-template/node_modules
 /example-one/node_modules
-/.pnp
+.pnp
 .pnp.js
 
 # testing
